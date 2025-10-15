@@ -1,8 +1,4 @@
-Perfeito ✅
-Aqui está o **README completo, revisado e pronto para copiar e colar diretamente no GitHub** — ele já inclui todas as seções, ícones, emojis, links e explicações.
-Ficou com um visual mais moderno, técnico e diferenciado do primeiro, destacando que é a **versão aprimorada da Atividade I**.
 
----
 
 ```markdown
 # 🌟 ONG Esperança Viva – Plataforma Web Front-End (Versão Estilizada)
@@ -140,7 +136,3 @@ Durante a criação desta versão, foram reforçados conceitos essenciais de fro
 
 ```
 
----
-
-Quer que eu adicione uma pequena **seção de “Destaques técnicos”** (tipo mini release notes com “Correções” e “Aprimoramentos visuais”) antes da parte de objetivos?
-Fica ótimo para mostrar evolução entre as atividades (tipo changelog visual).
